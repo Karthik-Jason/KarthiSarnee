@@ -1,0 +1,80 @@
+#happy-couple{
+    text-align: center;
+    background-color: #e9e0e0;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 100%;
+    /* font-family: 'Courier New', Courier, monospace; */
+    color: #353131;
+}
+#heading{
+    font-size: 250%;
+    padding-top: 30pt;
+    padding-bottom: 2pt;
+    color: #353131;
+    padding-left: 2%;
+    font-family: "Palatino Linotype";
+}
+
+#bride-heading{
+    font-size: 250%;
+    padding-top: 30pt;
+    padding-bottom: 2pt;
+    color: #353131;
+    padding-left:20%;
+    font-family: "Palatino Linotype";
+}
+
+#bride{
+    position: inherit;
+    padding-top: 10pt;
+    padding-bottom: 20pt;
+    text-align: center;
+    background-color: #e8d9d9;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 150%;
+    font-family: "Palatino Linotype";
+    color: #7a7171;
+    letter-spacing: 1.5px;
+    font-weight: lighter;
+    padding-left: 65%;
+}
+#groom-heading{
+    font-size: 250%;
+    padding-top: 30pt;
+    padding-bottom: 2pt;
+    color: #353131;
+    padding-right:60%;
+    font-family: "Palatino Linotype";
+}
+
+#groom{
+    position: inherit;
+    padding-top: 10pt;
+    padding-bottom: 20pt;
+    text-align: center;
+    background-color: #e8d9d9;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 150%;
+    font-family: "Palatino Linotype";
+    color: #7a7171;
+    letter-spacing: 1.5px;
+    font-weight: lighter;
+    padding-right: 65%;
+}
+#bride-img{
+    width:450px;
+    padding-right: 340px;
+    padding-left: 100px;
+    padding-top: 108pt;
+    float:left;
+}
+#groom-img{
+    width:450px;
+    padding-left: 340px;
+    padding-right: 100px;
+    padding-top: 103pt;
+    float:right;
+}

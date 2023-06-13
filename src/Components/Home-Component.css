@@ -1,0 +1,35 @@
+#bg-img{
+  background-image: linear-gradient(rgba(80, 69, 69, 0.5), rgba(36, 26, 26, 0.5)),url("img1.JPG");
+  /* height: 1080pt;
+  width: 1426pt; */
+  height: 500pt;
+  width: 900pt;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-size: cover;
+  border: 10px solid #e8d9d9;
+}
+
+#home-text {
+    text-align: center;
+    background-color:#e9e0e0;
+    /* position: absolute; */
+    font-size: 250%;
+    font-family: Broadway;
+    top: 100%;
+    left: 20%;
+    color: rgb(154, 150, 150);
+}
+
+#venue{
+    text-align: center;
+    background-color: #e8d9d9;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 200%;
+    font-family: "Palatino Linotype";
+    color: rgb(154, 150, 150);
+    letter-spacing: 1.5px;
+    font-weight: lighter;
+}
