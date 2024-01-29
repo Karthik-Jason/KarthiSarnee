@@ -19,20 +19,24 @@ import HomeWorkSharpIcon from '@mui/icons-material/HomeWorkSharp';
 export default class LoveStory extends React.Component {
 render(){
     return(
+        <div>
     <div id="timeline">
-        <div id="heading">
-            <h9>Our Story</h9>
+        <div>
+            <h9 id="heading">OUR STORY</h9>
+            <br></br><br></br>
+            <hr style={{height:'1px',color:'black',width:'80%',backgroundColor: 'black'}}/>
+            <br></br>
         </div>
     <Timeline align="alternate">
         <TimelineItem>
             <TimelineOppositeContent>
-                <Typography variant="h5" color="secondary">
-                    25th December 2015
+                <Typography variant="h4" color="inherit">
+                    2018
                 </Typography>
                 <img id="timelinephotos" src={firstmeet} alt="Some awesome text"/>
             </TimelineOppositeContent>
             <TimelineSeparator>
-                <TimelineDot color='secondary'>
+                <TimelineDot color='inherit'>
                     <ChurchTwoTone />
                 </TimelineDot>
                 <TimelineConnector />
@@ -40,23 +44,23 @@ render(){
             <TimelineContent>
                 <Paper id="leftpapers" elevation={24}>
                     <Typography id="leftheading" variant="h3">
-                        Our First Meet
+                       OUR FIRST MEET
                     </Typography>
                     <Typography id="leftpara" variant="h5">
-                    We met in 2009, at a backpacker hostel in Amsterdam. We hit it off immediately, bonding over our love of Gauguin and jazz. We had a magical time together in France during Anya's first year at grad school, and we both knew it was time. We were engaged in March 2014, and now we're getting married!
+                    We met in 2009, at a church's education centre as kids but we have no idea at the time that we are made for each others, almost after a decade, In 2017 we met in a christmas celebration and slowly we started to know and love each other in 2018!
                     </Typography>
                 </Paper>
             </TimelineContent>
         </TimelineItem>
         <TimelineItem>
             <TimelineOppositeContent>
-                <Typography variant="h5" color="primary">
-                    1st April 2018
+                <Typography variant="h4" color="inherit">
+                    2021
                 </Typography>
                 <img id="timelinephotos" src={proposal} alt="Some awesome text"/>
             </TimelineOppositeContent>
             <TimelineSeparator>
-                <TimelineDot color='primary'>
+                <TimelineDot color='inherit'>
                     <ParkSharpIcon />
                 </TimelineDot>
                 <TimelineConnector />
@@ -64,18 +68,18 @@ render(){
             <TimelineContent>
                 <Paper id="righttpapers" elevation={24}>
                     <Typography id="rightheading" variant="h3">
-                        Our Proposal
+                    OUR JOURNEY
                     </Typography>
                     <Typography id="rightpara" variant="h5">
-                    Iceland, which smells of figs, sulfur, fresh snow, and wet hay becomes our home for 2 weeks. We take this trip because a change of scenery will do us some good we say, confidently, outwardly to each other at first and then to our friends who ask. During the day we walk the streets of Reykjavik in search of geothermal pools.
+                    When God send you the right partner. your heart will know it and you will be at peace around that person. We both are exactly feeling the same for past six years, We can't stop think about each others. We wish that this unconditional love and peace will be with us forever for the rest of our life.
                     </Typography>
                 </Paper>
             </TimelineContent>
         </TimelineItem>
         <TimelineItem>
             <TimelineOppositeContent>
-                <Typography variant="h5" color="inherit">
-                    23rd June 2022
+                <Typography variant="h4" color="inherit">
+                    2024
                 </Typography>
                 <img id="timelinephotos" src={latest} alt="Some awesome text"/>
             </TimelineOppositeContent>
@@ -88,10 +92,10 @@ render(){
             <TimelineContent>
                 <Paper id="leftpapers" elevation={24}>
                     <Typography id="leftheading" variant="h3">
-                        Now
+                        NOW
                     </Typography>
                     <Typography id="leftpara" variant="h5">
-                        We grew together as a happy couple for more than four years now,I want to thank you for your unconditional and undivided love. Thank you for all the laughs and all the good times we spent together through thick and thin, you have been the sunshine in my life. I can’t stop thinking about you! You are everything and very special to me! I love you!
+                        We grew together as a happy couple for almost six years now, We want to thank God for the unconditional and undivided love and also for all the good times we spent together through thick and thin. After lot of struggles, We've made it to our wedding!
                     </Typography>
                 </Paper>
             </TimelineContent>
@@ -99,7 +103,7 @@ render(){
         
     </Timeline>
     </div>
- 
+    </div>
     )
   }
 }

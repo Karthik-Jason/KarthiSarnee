@@ -16,15 +16,10 @@ export default class HappyCouple extends React.Component {
                 </div>
                 <br></br>
                 <div id="bride">
-                I think the moment I knew he was “the
-                one” was when I had a work assignment
-                that would take me to France for 10
-                weeks.
-                </div>
-                <div id="bride">
-                It was only once I was on the plane I
-                realized how much I would miss him. I
-                never wanted to be without him again!
+                I knew when I met you an adventure was going to happen.
+                You are the finest, loveliest, tenderest, and most beautiful person
+                I have ever known and even that is an understatement.
+                You look like the rest of my life, When he is with me everything look better!
                 </div>
                 </p>
                 <img id="groom-img" alt="groom-img" src={groom}/>
@@ -34,15 +29,12 @@ export default class HappyCouple extends React.Component {
                 </div>
                 <br></br>
                 <div id="groom">
-                I think the moment I knew he was “the
-                one” was when I had a work assignment
-                that would take me to France for 10
-                weeks.
-                </div>
-                <div id="groom">
-                It was only once I was on the plane I
-                realized how much I would miss him. I
-                never wanted to be without him again!
+                What can I say, she is the amazing gift from god,
+                She is the answer of all my prayers 
+                and she gave me a whole new side of life.          
+                I never want to go back to the way life was
+                before I met her. She is my forever love. 
+                I wanna spend the rest of my life with her.
                 </div>
                 </p>
             </div>

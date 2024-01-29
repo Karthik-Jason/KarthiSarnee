@@ -8,23 +8,24 @@
   margin-left: auto;
   margin-right: auto;
   background-size: cover;
-  border: 10px solid #e8d9d9;
+  border: 10px solid #f0f0f0;
 }
 
 #home-text {
     text-align: center;
-    background-color:#e9e0e0;
+    background-color:#d4d6d7;
     /* position: absolute; */
     font-size: 250%;
     font-family: Broadway;
     top: 100%;
     left: 20%;
-    color: rgb(154, 150, 150);
+    color: rgb(152, 103, 103);
+    /* color: rgb(154, 150, 150); */
 }
 
 #venue{
     text-align: center;
-    background-color: #e8d9d9;
+    background-color: #d4d6d7;
     margin-left: 5%;
     margin-right: 5%;
     font-size: 200%;

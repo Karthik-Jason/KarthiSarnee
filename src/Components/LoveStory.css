@@ -1,36 +1,49 @@
 #leftpapers{
     width:850px;
     border-radius: 3%;
+    background-color: #e7f2f9;
 }
 #righttpapers{
     width:850px;
     margin-left: 35px;
     border-radius: 3%;
+    background-color: #e7f2f9;
 }
 #leftheading{
     padding-left: 20px;
-    font-family: "Arial Black", sans-serif;
-    font-size: 40px;
+    font-family: "Palatino Linotype";
+    font-weight: bold;
+    font-size: 35px;
     letter-spacing: -1px;
-    background-color: black;
-    color: white;
+    background-color: #c3bbbb;
+    color: #9b9191;
 }
 #rightheading{
     padding-right: 540px;
-    font-family: "Perpetua";
-    font-family: "Arial Black", sans-serif;
-    font-size: 40px;
+    font-family: "Palatino Linotype";
+    font-weight: bold;
+    font-size: 35px;
     letter-spacing: -1px;
-    background-color: black;
-    color: white;
+    background-color: #c3bbbb;
+    color: #9b9191;
 }
 #leftpara{
     padding-left: 100px;
     margin-right: 35px;
+    font-size: 150%;
+    font-family: "Palatino Linotype";
+    color: #7a7171;
+    letter-spacing: 1.5px;
+    font-weight: lighter;
 }
 #rightpara{
     padding-left: 70px;
     margin-right: 35px;
+    font-size: 150%;
+    font-family: "Palatino Linotype";
+    color: #7a7171;
+    letter-spacing: 1.5px;
+    font-weight: lighter;
 }
 #timelinephotos{
     -webkit-filter: grayscale(100%);
@@ -47,15 +60,20 @@
 	transform: scale(1.05);
 }
 #timeline{
-    background-color: rgb(243, 238, 228);
+    background-color: #d4d6d7;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 50pt;
+    padding-bottom: 20pt;
 }
 #heading{
-    font-size: 350%;
-    font-style: inherit;
-    font-family: "Lucida Sans Typewriter";
-    padding-left: 780px;
-    padding-top: 120px;
-    padding-bottom: 80px;
-    color: rgb(98, 60, 17);
-    
+    text-align: center;
+    background-color: #d4d6d7;
+    margin-left: 42%;
+    /* margin-right: 5%; */
+    font-size: 250%;
+    font-family: "Palatino Linotype";
+    color: rgb(79, 73, 73);
+    letter-spacing: 1.5px;
+    font-weight: lighter;
 }
