@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/KarthiSarnee/static/css/main.22512a6a.css",
+    "main.js": "/KarthiSarnee/static/js/main.7c08b644.js",
+    "static/js/787.a7a71f2f.chunk.js": "/KarthiSarnee/static/js/787.a7a71f2f.chunk.js",
+    "static/media/car6.jpg": "/KarthiSarnee/static/media/car6.62714772e11af6f48be6.jpg",
+    "static/media/car1.jpg": "/KarthiSarnee/static/media/car1.d769ae2bb6504497dab6.jpg",
+    "static/media/car5.jpg": "/KarthiSarnee/static/media/car5.8d1452e4c70a949882b5.jpg",
+    "static/media/latest.jpg": "/KarthiSarnee/static/media/latest.00c25825ae13c91c55cb.jpg",
+    "static/media/groom.jpg": "/KarthiSarnee/static/media/groom.83ec2532f58710d9d821.jpg",
+    "static/media/car4.jpg": "/KarthiSarnee/static/media/car4.148f61cbff32eb0098bb.jpg",
+    "static/media/car3.jpg": "/KarthiSarnee/static/media/car3.b70c6c724f32fcb2d428.jpg",
+    "static/media/img1.JPG": "/KarthiSarnee/static/media/img1.cba95f55534e7e398399.JPG",
+    "static/media/bride.jpg": "/KarthiSarnee/static/media/bride.4db67cad2d0f5eef7dd8.jpg",
+    "static/media/proposal.jpg": "/KarthiSarnee/static/media/proposal.55e147f2d61705784737.jpg",
+    "static/media/car2.jpg": "/KarthiSarnee/static/media/car2.1b01106d5eca4b689eb9.jpg",
+    "static/media/firstmeet.jpg": "/KarthiSarnee/static/media/firstmeet.c298b50eb6b46a348aba.jpg",
+    "index.html": "/KarthiSarnee/index.html",
+    "main.22512a6a.css.map": "/KarthiSarnee/static/css/main.22512a6a.css.map",
+    "main.7c08b644.js.map": "/KarthiSarnee/static/js/main.7c08b644.js.map",
+    "787.a7a71f2f.chunk.js.map": "/KarthiSarnee/static/js/787.a7a71f2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22512a6a.css",
+    "static/js/main.7c08b644.js"
+  ]
+}
